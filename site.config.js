@@ -6,7 +6,7 @@ const CONFIG = {
     role: "Data Scientist",
     bio: "I am a fullstack Data Scientist.",
     email: "dangquyanh150101@gmail.com",
-    linkedin: "Quy Anh Dang",
+    linkedin: "https://www.linkedin.com/in/quy-anh-dang-2490372b5/",
     github: "QuyAnh2005",
     instagram: "",
   },
@@ -20,7 +20,7 @@ const CONFIG = {
   blog: {
     title: "Quy Anh's Blog",
     description: "Welcome to my blog!",
-    scheme: "dark", // 'light' | 'dark' | 'system'
+    scheme: "light", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
